@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/calderonrigoberto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="calderonrigoberto" height="30" width="40" /></a>
-<a href="https://twitter.com/devrigofrontend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devrigofrontend" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/rigoberto de jesús calderón flores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rigoberto de jesús calderón flores" height="30" width="40" /></a>
 </p>
 
