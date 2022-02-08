@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rigoberto Calderón</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=calderonrigoberto" alt="calderonrigoberto" /></a> </p>
 
 - 🌱 I’m currently learning **VUE, Advanced JavaScript and SASS**
 
