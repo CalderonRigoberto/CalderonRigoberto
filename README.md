@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **flutter,kotlin**
 
-- 👯 I’m looking to collaborate on **VISE**
-
 - 👨‍💻 All of my projects are available at [https://calderonrigoberto.github.io/calderondev/](https://calderonrigoberto.github.io/calderondev/)
 
 - 📫 How to reach me **rcalderon0817@gmail.com**
