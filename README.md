@@ -1,5 +1,9 @@
 <h1 align="center">Hey, I'm Rigo Calderon :)</h1>
-<h3 align="center">I am a developer passionate about implementing new technologies and architectures to solve problems and improve software efficiency. In the last project I am participating in, I was able to reduce errors by 20% by focusing on quality and optimization. Currently, I am working on an exciting biometric application, using MVVM, Clean Architecture, DI with Hilt, and Jetpack Compose. I am always seeking new challenges and growth opportunities in my career.</h3>
+<h3>Enthusiastic mobile and backend developer with a focus on innovation and technical excellence.
+ 
+I made significant contributions to an exciting facial recognition project that pushed the boundaries of technologies like Android Jetpack Compose, dependency injection with Hilt, and MVVM architecture. This initiative has positively impacted over 2,000 users by providing them with a seamless and secure biometric authentication experience. 
+
+Furthermore, I've crafted custom Flutter plugins, enabling smooth integration of native Android functions and various libraries. My passion for development and continuous learning drives me to keep creating impactful solutions. 🚀💡📱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calderonrigoberto&label=Profile%20views&color=0e75b6&style=flat" alt="calderonrigoberto" /> </p>
 
