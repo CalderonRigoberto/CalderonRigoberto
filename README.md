@@ -23,7 +23,7 @@ Passionate Mobile and Backend Developer with a focus on creating innovative appl
 
 ## Let's Connect 📬
 
-🌐 [Portfolio Website](https://calderonrigoberto.github.io/calderondev/)
+🌐 [Portfolio Website](https://calderonrigoberto.github.io)
 📧 rcalderon0817@gmail.com
 📱 [LinkedIn](https://www.linkedin.com/in/calderonrigoberto/)
 
