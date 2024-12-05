@@ -4,13 +4,17 @@ Passionate Mobile and Backend Developer with a focus on creating innovative appl
 
 ## Skills 🚀
 
-- Flutter (Provider, Hive)
 - Spring Boot
-- Android Jetpack (Compose, Hilt, Room, Retrofit) 
+- Vue
+- Android Jetpack (Compose, Hilt, Room, Retrofit)
+- Flutter (Provider, Hive)
 - API Development
 - Biometric Authentication
 - MVVM Architecture
 - Git Version Control
+- Apache Kafka
+- NoSQL
+- SQLServer, PostgreSQL
 
 ## Experience 🌟
 
